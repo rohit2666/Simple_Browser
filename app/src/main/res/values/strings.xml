@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Browser</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="youtube">youtube</string>
+    <string name="gmail">Gmail</string>
+    <string name="twitter">Twitter</string>
+    <string name="cribuzz">Cricbuzz</string>
+    <string name="flipkart">Flipkart</string>
+    <string name="amazon">Amazon</string>
+    <string name="instagram">Instagram</string>
+    <string name="gaana">Gaana</string>
+
+</resources>
